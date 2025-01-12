@@ -1,0 +1,113 @@
+.header {
+  background-image: url('../Assaignment-1/assets/hero.png');
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 160px 24px 160px;
+
+}
+
+nav ul li {
+  list-style: none;
+  margin-right: 160px;
+}
+
+.nav-title {
+  color: rgb(14, 14, 14);
+  font-size: 32px;
+  text-align: left;
+}
+
+.butt {
+  color: rgb(0, 106, 80);
+  font-family: Fira Sans;
+  font-size: 18px;
+  /* font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%; */
+  text-align: left;
+  box-sizing: border-box;
+  border: 1px solid rgb(0, 106, 80);
+  border-radius: 8px;
+
+}
+
+/* banner section style */
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #C6E4D6;
+  width: 1280px;
+  margin: 80px 160px;
+  border-radius: 24px;
+  padding: 80px 100px 80px 100px;
+  margin-top: 20px;
+}
+
+.banner-greetings {
+  font-size: 24px;
+  color: rgba(14, 14, 14, 0.5);
+  font-family: Fira Sans;
+  /* font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0%; */
+  text-align: left;
+}
+
+.banner-title {
+  color: rgb(14, 14, 14);
+  font-family: Fira Sans;
+  font-size: 56px;
+  /* font-weight: 700;
+line-height: 67px;
+letter-spacing: 0%; */
+  text-align: left;
+}
+
+.btn {
+  color: rgb(255, 255, 255);
+  font-family: Fira Sans;
+  font-size: 18px;
+  /* font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%; */
+  text-align: left;
+  border-radius: 8px;
+  background: rgb(0, 106, 80);
+  border: none;
+}
+
+.img {
+  width: 474.03px;
+
+}
+
+/* main section */
+main {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+main section {
+  margin: 0 auto;
+}
+
+/* about section style */
+.about {
+  font-family: Fira Sans;
+  font-size: 40px;
+  text-align: left;
+  justify-content: left;
+  
+}
+
+.section-title{
+  color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+
+}
