@@ -436,6 +436,7 @@ main section {
   border-radius: 13px;
   background: rgb(255, 255, 255);
   padding: 33px;
+  flex-direction: row;
 }
 
 .colour{
