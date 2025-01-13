@@ -1,5 +1,6 @@
 .header {
   background-image: url('../Assaignment-1/assets/hero.png');
+  background-repeat: no-repeat;
 }
 
 nav {
